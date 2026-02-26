@@ -1,1 +1,4 @@
-this is  python file
+x=12
+y=3
+z=x+y
+print(z)
